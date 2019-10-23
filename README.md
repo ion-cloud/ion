@@ -2,7 +2,7 @@
 JavaScript particle tweaning and basic 2d animation utility. In order to help facilitate multiple instances of ion at once, you can refer to the `cloud` library available [here](https://github.com/ion-cloud/cloud).
 
 ## Setup
-Getting started is as easy as installing the library with `npm i @ion-cloud/ion --save` and then importing the class directly into your application with `import {Ion} from '@ion-cloud/ion';`. 
+Getting started is as easy as installing the library with `npm i @ion-cloud/ion --save` and then importing the class directly into your application with `import {Ion} from '@ion-cloud/ion';`.
 
 You can view the code below running on codepen [here](https://codepen.io/NathanielInman/pen/ogYjwE).
 An fountain example that shows how `windStatic` may be used is available [here](https://codepen.io/NathanielInman/pen/LEbpye).
